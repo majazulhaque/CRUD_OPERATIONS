@@ -4,19 +4,27 @@ const dotenv = require('dotenv');
 
 //Config
 dotenv.config({path:"config/config.env"});
-const db = require('./config/database');
+
 
 const app = express();
 
 app.use(express.json());
 
 
+
+
+app.use(express.urlencoded({extended:false}));
+
 // Route imports
 const item = require("./Routes/itemRoute");
-const user = require("./Routes/userRoute");
+
+
+const db = require('./config/database');
 
 app.use('/api',item);
-app.use('/api',user);
+
+
+
 
 
 // Run the server

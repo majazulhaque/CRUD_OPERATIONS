@@ -2,12 +2,14 @@
 ### Theme:
 - We’re going to design an API for the CRUD OPERATION(CREATE,READ,UPDATE,DELETE) of the Item using Express JS, MongoDB and some usefull tools like Winston to logging the info and error of each request.
 
-- Date
+- Validation is used in Model to restrict the value of the item name and description accordingly.
+-Winston is used to log all ERROR & INFO related to REQUEST.
 
 # Instructions about SetUp:
 
 First start with downloading the code and and write npm install on code editor, it will install all dependencies on your editor.
 You will not need  mongoDB setup because I will give my mongodb_srv because this is only assessment.
+Nodemon is installed. so use npm start to run server.
 We will use postman to check the api is working or not,So download postman on your computer.
 
 1.Now use this POST Request **http://localhost:4000/api/item/new** route to create new item having name and description. Below image shown how to fill the value.

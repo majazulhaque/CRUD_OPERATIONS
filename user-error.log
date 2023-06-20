@@ -10,3 +10,14 @@
 {"level":"error","message":"Please Enter Email and Password","timestamp":"2023-06-20T11:16:58.553Z"}
 {"level":"error","message":"Invalid email or Password","timestamp":"2023-06-20T11:17:14.652Z"}
 {"level":"error","message":"Error while register a User","timestamp":"2023-06-20T11:20:19.743Z"}
+{"level":"error","message":"Error while log in a User","timestamp":"2023-06-20T13:00:32.960Z"}
+{"level":"error","message":"Error while register a User","timestamp":"2023-06-20T13:00:47.615Z"}
+{"level":"error","message":"Invalid credentials","timestamp":"2023-06-20T13:01:23.685Z"}
+{"level":"error","message":"Error while log in a User","timestamp":"2023-06-20T13:02:50.205Z"}
+{"level":"error","message":"Error while log in a User","timestamp":"2023-06-20T13:03:05.817Z"}
+{"level":"error","message":"Error while log in a User","timestamp":"2023-06-20T13:05:30.674Z"}
+{"level":"error","message":"Invalid credentials","timestamp":"2023-06-20T13:10:49.289Z"}
+{"level":"error","message":"Error while log in a User","timestamp":"2023-06-20T13:11:03.266Z"}
+{"level":"error","message":"Error while log in a User","timestamp":"2023-06-20T13:11:29.805Z"}
+{"level":"error","message":"Error while log in a User","timestamp":"2023-06-20T13:12:01.735Z"}
+{"level":"error","message":"Error while log in a User","timestamp":"2023-06-20T13:15:01.264Z"}
